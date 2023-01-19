@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Hello, I'm Gaia, and I'm a Front-end Developer.
+After many years as a Digital Designer, my passion is to to create engaging and visually pleasing digital experiences, that solve real life problems.
 
 <!--
 **GaiaGD/GaiaGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
